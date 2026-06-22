@@ -26,12 +26,7 @@ fpga-cognitive-game-system
 
 ---
 
-## Contributors
 
-- Your Name  
-- Co-author Name
-
----
 
 ## Technologies Used
 
