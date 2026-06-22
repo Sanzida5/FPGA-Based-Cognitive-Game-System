@@ -14,18 +14,6 @@ This project was developed as an FPGA/Vivado project and includes synthesis, imp
 
 ---
 
-## Project Title
-
-**FPGA-Based Cognitive Game System**
-
-Suggested GitHub repository name:
-
-```text
-fpga-cognitive-game-system
-```
-
----
-
 
 
 ## Technologies Used
@@ -163,9 +151,7 @@ cognitive_game/
 └── README.md
 ```
 
-> Note: For a complete GitHub project, make sure the HDL source files and constraint files are also included, such as `.v`, `.sv`, `.vhd`, `.xdc`, and the Vivado project file `.xpr` if available.
 
----
 
 ## Important Files
 
