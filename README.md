@@ -149,20 +149,8 @@ cognitive_game/
 │   └── Simulation output files
 │
 └── README.md
-```
 
 
-
-## Important Files
-
-| File / Folder | Description |
-|---|---|
-| `top.bit` | Generated FPGA bitstream file |
-| `cognitive_game.runs/synth_1/` | Vivado synthesis output folder |
-| `cognitive_game.runs/impl_1/` | Vivado implementation output folder |
-| `cognitive_game.sim/` | Simulation output folder |
-| `cognitive_game.hw/` | Hardware manager files |
-| `cognitive_game.cache/` | Vivado cache files |
 
 ---
 
